@@ -1,0 +1,27 @@
+h1, h2 {
+	text-align: center;
+} fieldset {
+	align-content: center;
+	text-align: center;
+	width: 100%;
+	background-color: white;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+body {
+	background-color: rgb(123,312,122);
+	font-family: Arial, Verdana, sans-serif;}
+	.head1 {
+		color: black;
+		background-color: rgb(123,312,122);
+	}
+
+	.navbar {
+		color: blue;
+		background-color: orange;
+		font-size: 20px;
+	}
+	p {
+		color: #665544;
+	}
